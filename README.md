@@ -1,5 +1,6 @@
 # AirClaws
 Wearable Hardware Control for OpenClaw (AirPods Pro 2 compatible)
+Bluetooth Command of OpenClaws AI Agents
 
 AirClaws - macOS Version (Tested on 2017 macOS i5 & 2022 Apple M1)
 
